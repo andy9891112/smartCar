@@ -17,3 +17,16 @@
 ﻿git push --set-upstream https://github.com/andy9891112/smartCar.git master
 ﻿git push --set-upstream https://github.com/andy9891112/smartCar.git master
 
+   </Application.Resources>
+</Application>
+<Application x:Class="LeapMotionDriverWindow.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
+﻿git push --set-upstream https://github.com/andy9891112/smartCar.git master
+﻿git push --set-upstream https://github.com/andy9891112/smartCar.git master
+
