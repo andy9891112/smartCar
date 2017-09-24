@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿<Application x:Class="LeapMotionDriverWindow.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -15,6 +14,6 @@
          
     </Application.Resources>
 </Application>
-=======
 ﻿git push --set-upstream https://github.com/andy9891112/smartCar.git master
->>>>>>> billy
+﻿git push --set-upstream https://github.com/andy9891112/smartCar.git master
+
